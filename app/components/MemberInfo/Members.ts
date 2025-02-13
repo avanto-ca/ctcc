@@ -1364,7 +1364,7 @@ export const Members: Member[] = [
         website: "http://www.cantamgroup.com/",
         iframe: "",
         aboutus: "We are a team of professionals who provide planning, architecture, engineering and project management services in land development and building services across Canada. Our well-known projects include hotels such as Holiday Inn, Best Western, 4 Points, and Marriott Suites. We’ve also done Gas Stations with Tim Horton’s, McDonald’s, Esso, Mr. Lube, Ultramar, and many more. We specialize in commercial and industrial developments as well as residential projects.\n\nOur capacity ranges from commercial/industrial plazas, both land development and the structures, single commercial units, residential subdivisions, to renovations, additions, and single custom-built homes. At Cantam Group, we provide complete services starting from preliminary design, planning including site plan approval/rezoning approval, engineering drawings, site servicing, grading and landscape plans, continued with the building permit application. We’ll even provide design-build solutions when requested by clients.",
-        sectionItem1: "",
+        sectionItem1: "Engineering",
         sectionItem2: "",
         sectionItem3: ""
     },
