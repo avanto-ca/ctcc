@@ -234,7 +234,7 @@ export const Members: Member[] = [
         phone: "416-219-3333",
         email: "gobi@teamsmart.ca",
         website: "https://www.teamsmart.ca",
-        iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2879.7933921488175!2d-79.2058752239354!3d43.79790004306023!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d0a12c47dcbd%3A0xfbf46d7cdfee5161!2s795%20Milner%20Ave%2C%20Scarborough%2C%20ON%20M1B%203C3!5e0!3m2!1sen!2sca!4v1721660375766!5m2!1sen!2sca",     
+        iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2879.7933921488175!2d-79.2058752239354!3d43.79790004306023!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d0a12c47dcbd%3A0xfbf46d7cdfee5161!2s795%20Milner%20Ave%2C%20Scarborough%2C%20ON%20M1B%203C3!5e0!3m2!1sen!2sca!4v1721660375766!5m2!1sen!2sca",
         aboutus: "About Thiru: Thiru Gobiraj is an accomplished Real Estate professional at Royal LePage, boasting numerous awards and a wealth of experience. Upon obtaining his Bachelor’s degree from Carleton University, Thiru embarked on his career with the Government of Canada, where he served as an IT support technician, web developer, and digital marketing expert. Despite this successful tenure, Real Estate remained a fervent passion for Thiru. Leveraging his background in Information Technology, he seamlessly integrates cutting-edge technology into real estate marketing, distinguishing himself as an exceptionally tech-savvy Salesperson. Thiru is dedicated to fostering honest relationships with his clients, instilling confidence, and consistently surpassing their service expectations. His proficiency in analyzing real estate markets, coupled with a profound understanding of the local and global economy, positions him as a pivotal resource for clients seeking expert guidance in property transactions throughout the year. Renowned for his competitive spirit and exceptional negotiation skills, Thiru is recognized for his business acumen built on hard work, resourcefulness, and unwavering integrity. Committed to superior client service, he consistently delivers exceptional experiences to those he serves. Beyond his professional pursuits, Thiru is a staunch advocate for community involvement and giving back. As a testament to his commitment, he allocates a portion of each transaction to the Royal LePage Shelter Foundation and services. His exceptional community service has earned him the Ontario Volunteer Service Award. Thiru's overarching goal is to cultivate enduring and successful business relationships with his clients, ensuring their satisfaction for years to come. For him, making dreams a reality is not just a slogan but a commitment to delivering excellence anytime, anywhere in helping you find your home. MAKE YOUR NEXT BIG DREAM A REALITY. ANYTIME, ANYWHERE, FIND YOUR HOME.",
         sectionItem1: "Property Listing",
         sectionItem2: "Buying A Property",
@@ -1356,7 +1356,7 @@ export const Members: Member[] = [
         Name: "",
         Firstname: "Cantam",
         Lastname: "Group",
-        logo: "/Logos/cantamlogo.png",
+        logo: "",
         address: "850 Tapscott Road, Suite 51 Toronto, ON M1X 1N4",
         type: "Engineering",
         phone: "(416) 335-3353",
@@ -1395,12 +1395,12 @@ export const Members: Member[] = [
         type: "Lawyers",
         phone: "647-502-5742",
         email: "info@alphalegalservices.ca",
-        website: "https://alphalegalservices.ca/",
-        iframe: "",
-        aboutus:"",
+        website: "www.alphalegalservices.ca",
+        iframe:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3446.5205256581085!2d-79.26365899999999!3d43.7889217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d10d924fffff%3A0xfe45b9433fa20bf4!2s4544%20Sheppard%20Ave%20E%20Unit%20242%2C%20Toronto%2C%20ON%20M1S%201V2%2C%20Canada!5e1!3m2!1sen!2sin!4v1739884476092!5m2!1sen!2sin",
+        aboutus:"Alpha Legal Services Professional Corporation provides paralegal services in the Greater Toronto area. We are dedicated to advocating for individuals injured in motor vehicle accidents, ensuring they receive the accident benefits they are entitled to under the Statutory Accident Benefits Schedule (SABS). Our experienced team specializes in handling claims for medical and rehabilitation benefits, income replacement, non-earner benefits, and attendant care. We work tirelessly to navigate the complexities of insurance disputes, negotiate fair settlements, and secure the support our clients need for their recovery. With a client-focused approach, we are committed to protecting your rights and maximizing your benefits. We also offer notary services, including affidavit of service, commissioner of oaths, promissory notes, and more. ",
         sectionItem1: "Legal Services",
-        sectionItem2: "",
-        sectionItem3: "",
+        sectionItem2: "Specialized in Accident Benefits Claims",
+        sectionItem3: "Notary Public and Commissioner of Oath"
     }
     
     
